@@ -1,4 +1,4 @@
-# A Random Rooted Spanning Forest (RRST) generator
+# A Random Rooted Spanning Forest (RRSF) generator
 ## Usage :
 ```
 c++ -I <path/to/boost>  generateForest.cpp -o compiled
